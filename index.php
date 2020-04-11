@@ -7,9 +7,7 @@
 </head>
 <body>
   <div class="contianer">
-    <?php 
-      echo = "Hello World"
-    ?>
+    <p>Hi</p>
   </div>
 </body>
 </html>
