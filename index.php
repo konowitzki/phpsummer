@@ -9,7 +9,7 @@
 <body>
   <div class="container">
     <?php
-      echo = "HELLO WORLD";
+      echo "HELLO WORLD";
     ?>
   </div>
 </body>
